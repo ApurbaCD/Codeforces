@@ -1,0 +1,1 @@
+{"name":"Local: Cakeminator","url":"/home/apd/code/Codeforces/Cakeminator.cpp","tests":[{"id":1698863135169,"input":"3 4\nS...\n....\n..S.\n","output":""},{"id":1698863629042,"input":"5 5\nS....\n.....\n..S..\n.....\n.....","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/apd/code/Codeforces/Cakeminator.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"/home/apd/code/Codeforces/A.cpp","tests":[{"id":1710406096994,"input":"3\n??1\n?\n5?623","output":""},{"id":1727347003425,"input":"1\n?????","output":"98303"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/apd/code/Codeforces/A.cpp","group":"local","local":true}

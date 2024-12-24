@@ -1,0 +1,1 @@
+{"name":"Local: Metro","url":"/home/apd/code/Codeforces/Metro.cpp","tests":[{"id":1699888624803,"input":"10 6\n\n1 1 1 1 1 0 1 1 0 0\n\n1 1 1 1 1 1 0 0 0 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/apd/code/Codeforces/Metro.cpp","group":"local","local":true}

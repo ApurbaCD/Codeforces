@@ -1,0 +1,1 @@
+{"name":"Local: Come Together","url":"/home/apd/code/Codeforces/Come Together.cpp","tests":[{"id":1701356046020,"input":"3\n3 1\n1 3\n6 4\n5 2\n2 2\n7 2\n1 1\n4 3\n5 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/apd/code/Codeforces/Come Together.cpp","group":"local","local":true}
